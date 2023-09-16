@@ -1,0 +1,7 @@
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\bin\Debug\StudentDataRetrive.exe.config
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\bin\Debug\StudentDataRetrive.exe
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\bin\Debug\StudentDataRetrive.pdb
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\obj\Debug\StudentDataRetrive.csproj.AssemblyReference.cache
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\obj\Debug\StudentDataRetrive.csproj.CoreCompileInputs.cache
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\obj\Debug\StudentDataRetrive.exe
+C:\Users\adesh\source\repos\StudentDataRetrive\StudentDataRetrive\obj\Debug\StudentDataRetrive.pdb
